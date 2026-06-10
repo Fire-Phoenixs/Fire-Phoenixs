@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 🔧 TODO: 修改顶部大标题 -> 改 text= 和 desc= 参数 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Haoyang%20Liu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Per%20Aspera%20Ad%20Astra&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Haoyang%20Liu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
 
 <!-- 🔧 TODO: 修改轮播文字 -> 改 lines= 参数，多行用 ; 分隔 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI%E5%88%9D%E5%AD%A6%E8%80%85+%7C+%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85;%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E5%88%9B%E6%84%8F%E9%A9%B1%E5%8A%A8%E6%9C%AA%E6%9D%A5;%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%E5%BF%83%EF%BC%8C%E5%81%9A%E6%9C%80%E9%85%B7%E7%9A%84%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Per%20Aspera%20Ad%20Astra)](https://git.io/typing-svg)
 
 <!-- 🔧 TODO: 修改/增删社交链接 -> 改每个 <a href="..."> 里的 URL -->
 <p align="center">
@@ -25,17 +25,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 <!-- ==================== 关于我 ==================== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle;" />
-  🙋‍♂️ 关于我
-</h2>
+<h2 align="center">关于我</h2>
 
 <!-- 🔧 TODO: 修改自我介绍内容 -->
-> - 🏫 就读于 **中国海洋大学 (OUC) Heriot-Watt University**
+> - 🏫 就读于 **中国海洋大学 (OUC) 和 Heriot-Watt University**
 > - 💻 热爱探索新技术，专注于 **AI / 后端开发** 方向
 > - 🌱 目前正在学习：大语言模型、分布式系统
 > - 📫 联系我：**liuhaoyang078@outlook.com**
-> - ⚡ 座右铭：**Per Aspera Ad Astra**
 
 <!-- ==================== 分隔线 ==================== -->
 <div align="center">
@@ -43,10 +39,7 @@
 </div>
 
 <!-- ==================== 技能与工具 ==================== -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle;" />
-  🛠️ 技能与工具
-</h2>
+<h2 align="center">🛠️ 技能与工具</h2>
 
 <div align="center">
 
@@ -57,7 +50,7 @@
 3. perline=9 表示每行 9 个，可自行调整
 4. 如不需要某个图标，直接删掉即可
 -->
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,pytorch,linux,html,css,js,git,vscode,latex,github,docker&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,linux,git,vscode,latex,github&perline=8" />
 
 </div>
 
@@ -67,11 +60,7 @@
 </div>
 
 <!-- ==================== GitHub 统计 ==================== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;" />
-  📊 GitHub 统计
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;" />
-</h2>
+<h2 align="center">📊 GitHub 统计</h2>
 
 <!-- 统计卡片 + 语言卡片 并排 -->
 <div align="center">
@@ -90,10 +79,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fire-Phoenixs&theme=radical" width="100%" />
 </div>
 
-<!-- 🏆 奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fire-Phoenixs&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
 
 <!-- ==================== 分隔线 ==================== -->
 <div align="center">
@@ -101,10 +86,7 @@
 </div>
 
 <!-- ==================== 精选项目 ==================== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle;" />
-  📌 精选项目
-</h2>
+<h2 align="center">📌 精选项目</h2>
 
 <div align="center">
 
@@ -163,20 +145,18 @@
 <div align="center">
 
 <!-- 🔧 TODO: 修改励志名言 -> 改 lines= 参数 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E4%BB%A3%E7%A0%81%E6%98%AF%E8%AF%97%EF%BC%8C%E5%A6%82%E6%B0%B4%E8%88%AC%E6%B5%81%E7%95%85%E2%80%9D;%E2%80%9C%E6%8A%80%E6%9C%AF%E6%98%AF%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%88%9B%E6%96%B0%E6%98%AF%E7%94%9F%E5%91%BD%E2%80%9D;%E2%80%9C%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%9B%BE%E2%80%9D" alt="编程名言" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E7%BB%99%E4%BA%BA%E6%98%9F%E7%81%AB%EF%BC%8C%E5%BF%85%E8%87%B4%E7%87%8E%E5%8E%9F%E2%80%9D" alt="座右铭" />
 
 </div>
 
 <!-- ==================== 感谢 ==================== -->
 <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;" />
+  
   感谢访问我的 GitHub 主页！
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;" />
+  
 </h3>
 
-<p align="center">
-  <i>✨ 给人星火，必致燎原 ✨</i>
-</p>
+
 
 <!-- 底部波浪页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling" width="100%" />
