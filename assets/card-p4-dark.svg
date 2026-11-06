@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="196" viewBox="0 0 480 196" role="img" aria-label="BrightnessButtons">
+  <defs>
+    <linearGradient id="cp4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121924"/>
+      <stop offset="1" stop-color="#0E141D"/>
+    </linearGradient>
+    <linearGradient id="ap4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="1" stop-color="#FF9166" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="479" height="195" rx="12" fill="url(#cp4)" stroke="#222B38"/>
+  <rect x="0.5" y="14" width="3" height="168" rx="1.5" fill="url(#ap4)"/>
+
+  <text x="32" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#5A6675">04 / UTILITY</text>
+  <text x="448" y="40" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#5A6675">★ 1</text>
+
+  <text x="32" y="82" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" letter-spacing="-0.4" fill="#F2F5F8">BrightnessButtons</text>
+
+  <text x="32" y="128" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="13.5" fill="#8B98A5">当系统亮度控制功能失效时，仍可手动调节屏幕亮度的</text>
+  <text x="32" y="150" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="13.5" fill="#8B98A5">Windows 小工具。</text>
+
+  <circle cx="36" cy="170" r="4" fill="#FF6B35"/>
+  <text x="48" y="175" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#8B98A5">C#</text>
+  <text x="448" y="175" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#5A6675">C# · Windows</text>
+</svg>

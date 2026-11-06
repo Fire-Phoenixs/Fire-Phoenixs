@@ -1,163 +1,76 @@
 <div align="center">
-
-<!-- 🔧 TODO: 修改顶部大标题 -> 改 text= 和 desc= 参数 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Haoyang%20Liu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
-
-<!-- 🔧 TODO: 修改轮播文字 -> 改 lines= 参数，多行用 ; 分隔 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Per%20Aspera%20Ad%20Astra)](https://git.io/typing-svg)
-
-<!-- 🔧 TODO: 修改/增删社交链接 -> 改每个 <a href="..."> 里的 URL -->
-<p align="center">
-  <a href="https://github.com/Fire-Phoenixs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:liuhaoyang078@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- 🔧 TODO: 添加更多社交链接，如 LinkedIn、知乎、Kaggle 等 -->
-</p>
-
-<!-- 访问计数器 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fire-Phoenixs&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-  <img src="https://img.shields.io/github/followers/Fire-Phoenixs?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-</p>
-
-</div>
-
-<!-- ==================== 分隔线 ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-
-<!-- ==================== 关于我 ==================== -->
-<h2 align="center">关于我</h2>
-
-<!-- 🔧 TODO: 修改自我介绍内容 -->
-> - 🏫 就读于 **中国海洋大学 (OUC) 和 Heriot-Watt University**
-> - 💻 热爱探索新技术，专注于 **AI / 后端开发** 方向
-> - 🌱 目前正在学习：大语言模型、分布式系统
-> - 📫 联系我：**liuhaoyang078@outlook.com**
-
-<!-- ==================== 分隔线 ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<!-- ==================== 技能与工具 ==================== -->
-<h2 align="center">🛠️ 技能与工具</h2>
-
-<div align="center">
-
-<!-- 
-🔧 TODO: 修改技能图标！
-1. 打开 https://skillicons.dev 查看所有可用图标
-2. 修改下面 ?i= 后面的图标 ID 列表，逗号分隔，不要有空格
-3. perline=9 表示每行 9 个，可自行调整
-4. 如不需要某个图标，直接删掉即可
--->
-<img src="https://skillicons.dev/icons?i=py,java,cpp,linux,git,vscode,latex,github&perline=8" />
-
-</div>
-
-<!-- ==================== 分隔线 ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<!-- ==================== GitHub 统计 ==================== -->
-<h2 align="center">📊 GitHub 统计</h2>
-
-<!-- 统计卡片 + 语言卡片 并排 -->
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Fire-Phoenixs&show_icons=true&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fire-Phoenixs&show_icons=true&theme=radical&hide_border=true" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fire-Phoenixs&layout=compact&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fire-Phoenixs&layout=compact&theme=radical&hide_border=true" />
-  </picture>
-</div>
-
-<!-- 贡献热图 -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fire-Phoenixs&theme=radical" width="100%" />
-</div>
-
-
-<!-- ==================== 分隔线 ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<!-- ==================== 精选项目 ==================== -->
-<h2 align="center">📌 精选项目</h2>
-
-<div align="center">
-
-<!-- 
-🔧 TODO: 修改精选项目！
-1. 把 username=Fire-Phoenixs 改成你的用户名（如果不同）
-2. 把 repo= 改成你要展示的仓库名
-3. 可以增减卡片，width="49%" 表示两个一排（改成 100% 则一个一排）
-4. 如果仓库数量不足，复制一行改 repo= 名字即可
--->
-<a href="https://github.com/Fire-Phoenixs/SchoolStudy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fire-Phoenixs&repo=SchoolStudy&theme=radical&hide_border=true" width="49%" />
-</a>
-<!-- 🔧 TODO: 添加更多项目卡片，每行两个用 width="49%" -->
-<!--
-<a href="https://github.com/Fire-Phoenixs/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fire-Phoenixs&repo=REPO_NAME&theme=radical&hide_border=true" width="49%" />
-</a>
--->
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/Fire-Phoenixs?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+  <a href="https://github.com/Fire-Phoenixs">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/banner-light.svg">
+      <img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/banner-dark.svg" alt="Haoyang Liu · Per Aspera Ad Astra" width="100%">
+    </picture>
   </a>
 </div>
 
-<!-- ==================== 分隔线 ==================== -->
+<br>
+
+就读于中国海洋大学与 Heriot-Watt University，方向是 AI 与后端系统。日常在写 LLM agent 的工具链、给地学数值模拟做代理模型，以及一些把“数据有意思地呈现出来”的小系统。
+
+相信好的工程是**能被别人接手和验证的工程**：所以下面这些仓库大多附带数据快照、可复现的构建脚本和验收用例，而不是只留一份跑不通的 demo。
+
+<img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/rule.svg" width="100%" alt="">
+
+### 精选项目
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <a href="https://github.com/Fire-Phoenixs/kpl-bp-dataset"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p1-light.svg"><img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p1-dark.svg" width="47%" alt="kpl-bp-dataset"></picture></a>
+  <a href="https://github.com/Fire-Phoenixs/honor-of-kings-bp-assistant"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p2-light.svg"><img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p2-dark.svg" width="47%" alt="HOK BP Assistant"></picture></a>
+  <br>
+  <a href="https://github.com/Fire-Phoenixs/JEPA-ASPECT-Hybrid-Acceleration-Framework"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p3-light.svg"><img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p3-dark.svg" width="47%" alt="JEPA-ASPECT"></picture></a>
+  <a href="https://github.com/Fire-Phoenixs/BrightnessButtons"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p4-light.svg"><img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/card-p4-dark.svg" width="47%" alt="BrightnessButtons"></picture></a>
 </div>
 
-<!-- ==================== GitHub 活动 ==================== -->
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;" />
-  🐍 GitHub 活动
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;" />
-</h2>
+<p align="center">
+  <sub>另有 <a href="https://github.com/Fire-Phoenixs/dsh-purge-plus">dsh-purge-plus</a>（LLM 工具链分支）、<a href="https://github.com/Fire-Phoenixs/OhMyGit-ZH">OhMyGit-ZH</a>（Git 教学游戏汉化）与 <a href="https://github.com/Fire-Phoenixs?tab=repositories">全部仓库 →</a></sub>
+</p>
 
-<!-- 贪吃蛇 -->
+<img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/rule.svg" width="100%" alt="">
+
+### 技术栈
+
+<p align="center">
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+</p>
+
+<p align="center">
+  <sub>日常主力是 <b>Python</b> 与 <b>JavaScript</b>，系统层用 <b>C++</b> / <b>C#</b>；正在补分布式系统与编译原理。</sub>
+</p>
+
+<img src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/main/assets/rule.svg" width="100%" alt="">
+
+<div align="center">
+<p>
+<a href="mailto:liuhaoyang078@outlook.com"><img src="https://img.shields.io/badge/Email-liuhaoyang078%40outlook.com-E2542A?style=flat-square&logo=gmail&logoColor=white&labelColor=181717" alt="Email"></a>
+<a href="https://github.com/Fire-Phoenixs"><img src="https://img.shields.io/badge/GitHub-Fire--Phoenixs-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"></a>
+<img src="https://img.shields.io/github/followers/Fire-Phoenixs?style=flat-square&label=followers&labelColor=181717&color=E2542A" alt="followers">
+</p>
+<p><sub><i>Per Aspera Ad Astra</i> — 循此苦旅，以达星辰。</sub></p>
+</div>
+
+<!-- ============================================================
+     可选：贡献贪吃蛇（每天由 .github/workflows/snake.yml 生成）
+     想启用就把下面这一整段取消注释。注意：提交数少时这张图会很空。
+     ============================================================
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/output/github-snake.svg">
-    <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/output/github-snake.svg" width="100%">
+    <img alt="贡献图" src="https://raw.githubusercontent.com/Fire-Phoenixs/Fire-Phoenixs/output/github-snake-dark.svg" width="100%">
   </picture>
 </div>
-
-<!-- ==================== 分隔线 ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<!-- ==================== 名言打字特效 ==================== -->
-<div align="center">
-
-<!-- 🔧 TODO: 修改励志名言 -> 改 lines= 参数 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E7%BB%99%E4%BA%BA%E6%98%9F%E7%81%AB%EF%BC%8C%E5%BF%85%E8%87%B4%E7%87%8E%E5%8E%9F%E2%80%9D" alt="座右铭" />
-
-</div>
-
-<!-- ==================== 感谢 ==================== -->
-<h3 align="center">
-  
-  感谢访问我的 GitHub 主页！
-  
-</h3>
-
-
-
-<!-- 底部波浪页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling" width="100%" />
-</div>
+-->
