@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Haoyang Liu — Per Aspera Ad Astra">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#131A24"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#FF6B35" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#FF9166" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FF9166" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="1" stop-color="#FF9166"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="280" fill="url(#bg)"/>
+  <ellipse cx="150" cy="300" rx="560" ry="240" fill="url(#glow)"/>
+  <circle cx="736.3" cy="265.2" r="1.15" fill="#DCE3EC" opacity="0.406"/><circle cx="843.9" cy="48.8" r="0.85" fill="#DCE3EC" opacity="0.399"/><circle cx="1185.5" cy="87.7" r="1.09" fill="#DCE3EC" opacity="0.480"/><circle cx="886.2" cy="87.8" r="0.76" fill="#DCE3EC" opacity="0.341"/><circle cx="1247.3" cy="239.0" r="0.70" fill="#DCE3EC" opacity="0.250"/><circle cx="1145.1" cy="153.7" r="0.99" fill="#DCE3EC" opacity="0.333"/><circle cx="32.1" cy="254.9" r="1.15" fill="#DCE3EC" opacity="0.512"/><circle cx="801.9" cy="113.5" r="0.52" fill="#DCE3EC" opacity="0.441"/><circle cx="796.3" cy="97.6" r="0.96" fill="#DCE3EC" opacity="0.330"/><circle cx="891.7" cy="235.3" r="1.26" fill="#DCE3EC" opacity="0.339"/><circle cx="853.4" cy="17.3" r="1.32" fill="#DCE3EC" opacity="0.460"/><circle cx="859.7" cy="21.3" r="0.82" fill="#DCE3EC" opacity="0.424"/><circle cx="596.5" cy="266.2" r="0.72" fill="#DCE3EC" opacity="0.234"/><circle cx="22.5" cy="4.0" r="1.04" fill="#DCE3EC" opacity="0.367"/><circle cx="761.2" cy="229.2" r="0.99" fill="#DCE3EC" opacity="0.083"/><circle cx="1086.5" cy="91.6" r="1.36" fill="#DCE3EC" opacity="0.217"/><circle cx="1057.5" cy="31.7" r="0.92" fill="#DCE3EC" opacity="0.386"/><circle cx="1246.9" cy="55.1" r="1.29" fill="#DCE3EC" opacity="0.200"/><circle cx="758.3" cy="274.6" r="0.86" fill="#DCE3EC" opacity="0.208"/><circle cx="837.2" cy="195.5" r="0.77" fill="#DCE3EC" opacity="0.187"/><circle cx="900.3" cy="32.3" r="0.67" fill="#DCE3EC" opacity="0.150"/><circle cx="947.8" cy="219.4" r="0.69" fill="#DCE3EC" opacity="0.368"/><circle cx="1179.3" cy="9.6" r="0.85" fill="#DCE3EC" opacity="0.307"/><circle cx="961.4" cy="3.0" r="1.04" fill="#DCE3EC" opacity="0.136"/><circle cx="1034.1" cy="71.6" r="1.07" fill="#DCE3EC" opacity="0.189"/><circle cx="822.4" cy="85.6" r="0.69" fill="#DCE3EC" opacity="0.442"/><circle cx="937.6" cy="75.0" r="1.00" fill="#DCE3EC" opacity="0.282"/><circle cx="989.0" cy="245.7" r="1.04" fill="#DCE3EC" opacity="0.197"/><circle cx="16.1" cy="114.5" r="1.28" fill="#DCE3EC" opacity="0.398"/><circle cx="495.9" cy="256.0" r="1.22" fill="#DCE3EC" opacity="0.282"/><circle cx="1016.9" cy="199.7" r="0.69" fill="#DCE3EC" opacity="0.282"/><circle cx="444.7" cy="263.5" r="0.65" fill="#DCE3EC" opacity="0.154"/><circle cx="867.5" cy="6.9" r="1.01" fill="#DCE3EC" opacity="0.354"/><circle cx="947.8" cy="145.5" r="0.74" fill="#DCE3EC" opacity="0.462"/><circle cx="928.9" cy="248.9" r="0.52" fill="#DCE3EC" opacity="0.298"/><circle cx="1010.5" cy="98.4" r="0.77" fill="#DCE3EC" opacity="0.159"/><circle cx="193.7" cy="34.1" r="0.91" fill="#DCE3EC" opacity="0.234"/><circle cx="1161.3" cy="185.9" r="0.82" fill="#DCE3EC" opacity="0.146"/><circle cx="1068.7" cy="126.2" r="0.89" fill="#DCE3EC" opacity="0.439"/>
+
+  <!-- hairline frame -->
+  <rect x="0.5" y="0.5" width="1279" height="279" fill="none" stroke="#222B38" stroke-opacity="0.75"/>
+
+  <!-- left block -->
+  <rect x="72" y="66" width="26" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="112" y="72" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="4.2" fill="#8B98A5">PER ASPERA AD ASTRA</text>
+
+  <text x="72" y="158" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="64" font-weight="700" letter-spacing="-1.4" fill="#F2F5F8">Haoyang Liu</text>
+
+  <text x="74" y="200" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="20" fill="#8B98A5">AI · Backend · Systems</text>
+  <text x="74" y="228" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8B98A5">Ocean University of China × Heriot-Watt University</text>
+
+  <!-- right block: typographic mark -->
+  <g opacity="0.9">
+    <line x1="1012" y1="82" x2="1012" y2="206" stroke="#222B38" stroke-width="1"/>
+    <text x="1044" y="104" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.6" fill="#5A6675">LOCATION</text>
+    <text x="1044" y="126" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8B98A5">Qingdao, China</text>
+    <text x="1044" y="164" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.6" fill="#5A6675">FOCUS</text>
+    <text x="1044" y="186" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8B98A5">LLM agents · HPC</text>
+  </g>
+
+  <rect x="0" y="278" width="1280" height="2" fill="url(#rule)"/>
+</svg>
