@@ -20,9 +20,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 配色与主页视觉统一：亮色一档 + 暗色一档，均为暖橙色阶
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23E2542A&color_dots=%23EBEDF0,%23FFD9C9,%23FFB494,%23FF8A5C,%23E2542A
+            dist/github-snake-dark.svg?color_snake=%23FF6B35&color_dots=%23161B22,%233D2A1F,%236B3A1E,%23A84E22,%23E2542A
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
